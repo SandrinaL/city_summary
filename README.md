@@ -8,3 +8,5 @@ CLI-утилита: погода по городу + курс валюты к р
 python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+
+*Домашняя работа №2.*
